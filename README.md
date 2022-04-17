@@ -8,5 +8,7 @@ The site has 10 pages: _home(main) page, page for men, page for women, page for 
 When working with our site, we need a browser to download the necessary applications. First of all, we need a compiler. In our case, we worked with intellij idea ultimate, you can choose which ones you like. and we need a Mamp application to run and work with databases
 
 **Programming languages:**
-Front-end: html, css, bootstrap, javascript, 
+
+Front-end: html, css, bootstrap, javascript
+
 Backe-end: PHP, MySQL
