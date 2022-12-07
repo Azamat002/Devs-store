@@ -9,15 +9,15 @@ When working with our site, we need a browser to download the necessary applicat
 
 **Programming languages:**
 
-Front-end: html, css, bootstrap, javascript
+Front-end: HTML, CSS, Bootstrap JavaScript
 
-Backe-end: PHP, MySQL
+Back-end: PHP, MySQL
 
 Men's clothing page
 ![image](https://user-images.githubusercontent.com/80198432/206202177-963decbf-18ed-4153-834a-34bf08f37b18.png)
 
-Women's clothing page!
-[image](https://user-images.githubusercontent.com/80198432/206202479-d66e587d-e68d-4332-8bf8-bbc19985e1a9.png)
+Women's clothing page
+![image](https://user-images.githubusercontent.com/80198432/206202479-d66e587d-e68d-4332-8bf8-bbc19985e1a9.png)
 
 Kid's clothing page
 ![image](https://user-images.githubusercontent.com/80198432/206202664-64bf5783-bf3f-4686-940b-f01c641edfae.png)
